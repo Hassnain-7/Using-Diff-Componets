@@ -55,7 +55,7 @@ export const calculateOdd = (n) => {
   console.log(`${n} nth odd `);
   return 2 * n - 1;
 };
-
+// ................
 export const suffixOf = (i) => {
   var j = i % 10,
     k = i % 100;
